@@ -7,13 +7,13 @@ public class DoctorOffice {
 
         double temp = 102.2;
 
-        int numVisit = 5;
+        int numVisits = 5;
 
         System.out.println("Patient Details: ");
         System.out.println("Name: " + patientName);
         System.out.println("Patient has insurance: " + hasInsurance);
         System.out.println("Body temperature: " + temp);
-        System.out.println("Number of visit: " + numVisit);
+        System.out.println("Number of visits: " + numVisits);
 
 
     }
