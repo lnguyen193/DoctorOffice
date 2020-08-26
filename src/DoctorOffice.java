@@ -28,6 +28,9 @@ public class DoctorOffice {
 
         System.out.println("Copay amount: $" + copay + "0");
 
+        System.out.println("Next appointment date: " + appDate);
+
+        System.out.println("Contact number: " + contactNum);
 
     }
 }
